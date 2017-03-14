@@ -1,6 +1,6 @@
 {
   "name": "jquerytools",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "The missing UI library for the Web http://jquerytools.org",
   "main": "index.js",
   "directories": {
