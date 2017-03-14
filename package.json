@@ -1,0 +1,25 @@
+{
+  "name": "jquerytools",
+  "version": "1.2.7",
+  "description": "The missing UI library for the Web http://jquerytools.org",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jquerytools/jquerytools.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquerytools/jquerytools/issues"
+  },
+  "homepage": "https://github.com/jquerytools/jquerytools#readme"
+}
